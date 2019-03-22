@@ -1,10 +1,10 @@
 # About
 An elegant CV documentclass for LaTeX.
 
-# Package Dependencies and Installation, (debian):
+# Required debian Packages:
 
 ```bash
-sudo apt update && sudo apt install texlive texlive-xetex texlive-luatex texlive-math-extra ttf-marvosym texworks`
+sudo apt update && sudo apt install texlive texlive-xetex texlive-luatex texlive-math-extra ttf-marvosym texworks
 ```
 
 # Example
